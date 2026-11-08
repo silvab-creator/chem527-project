@@ -29,5 +29,6 @@ When the student asks for a plan, give it in words and write no code until the s
 The student replaces the three lines below and adds a line each time they correct the assistant on the same point twice.
 
 - Question: How does the choice of single-wavelength versus multiwavelength nonlinear fitting affect the estimated apparent pKa of methyl orange and its associated fitting uncertainty?
-- Data: data/20160621MO-pH.xlsx, where one row is one wavelength, with the URL and access date.
+- Data: - Data: data/20160621MO-pH.xlsx (sheet in H2O), where one row is one wavelength. https://data.mendeley.com/datasets/jp2j9hz6v9/1, accessed 2026-11-08
+
 - Measured variable: absorbance (AU), in one column per pH value
