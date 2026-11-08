@@ -1,8 +1,8 @@
 # 003: Topic declaration
 
-- **Status:** active
+- **Status:** done
 - **Created:** 2026-11-05
-- **Updated:** 2026-11-05
+- **Updated:** 2026-11-08
 - **Due:** 2026-11-08, 11:59 pm
 
 ## Goal
@@ -57,5 +57,7 @@ git rev-parse HEAD
 The Canvas entry is in. Close this task after it is, with the URL you submitted in **Outcome**, and commit and push the closed task. Your mentor reads the repository at the commit you submitted, so later commits do not change what is scored.
 
 ## Progress log
-
+2026-11-08
+Verified that `proposal.md` and `topic.ipynb` use the same research question. Checked the UV–Vis dataset and confirmed it contains 551 wavelengths from 250 to 800 nm across 12 pH values from 2.0 to 7.0, for 6,612 absorbance measurements with no missing values. The largest absorbance change across pH was 1.017 AU near 531 nm. Between 350 and 650 nm, 203 wavelengths changed by more than 0.1 AU.
 ## Outcome
+https://github.com/silvab-creator/chem527-project/commit/238228d1f91961caab5060c48c255abe4a823065
