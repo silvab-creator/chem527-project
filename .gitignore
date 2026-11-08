@@ -1,5 +1,4 @@
 
-```text
 # Python environment built by `uv sync`; anyone can rebuild it from uv.lock
 .venv/
 
@@ -19,5 +18,3 @@ output/
 
 # Claude Code's record of the permissions you granted on this laptop
 .claude/settings.local.json
-```
-
