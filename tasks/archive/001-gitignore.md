@@ -1,8 +1,8 @@
 # 001: Write `.gitignore`
 
-- **Status:** active
+- **Status:** done
 - **Created:** 2026-11-05
-- **Updated:** 2026-11-05
+- **Updated:** 2026-11-08
 - **Due:** 2026-11-01, before task 002
 
 ## Goal
@@ -65,5 +65,9 @@ If your data cannot be stored on GitHub, because they are too large or their lic
 `.gitignore` is pushed, and after `uv sync` in task 002, `git status` does not list `.venv/`. Close this task then.
 
 ## Progress log
+2026-11-05
+Created .gitignore to exclude .venv/ and removed the Markdown code fence lines that were accidentally pasted into it. The latest “Add .gitignore” commit was 3bd36b6.
+After uv sync, git status didn’t list .venv/
 
 ## Outcome
+Git now ignores .venv/

@@ -1,8 +1,8 @@
 # 002: Copy the course environment
 
-- **Status:** active
+- **Status:** done
 - **Created:** 2026-11-05
-- **Updated:** 2026-11-05
+- **Updated:** 2026-11-08
 - **Due:** 2026-11-01, after task 001
 
 ## Goal
@@ -77,5 +77,9 @@ If the course announces a change to its package list, copy the three files again
 The cell in step 4 prints Python 3.14 and the same package versions as a session notebook, and the three files are pushed.
 
 ## Progress log
+2026-11-05
+Copied the course environment files into the project repository in commit dfe2197. .venv/ was missing after the first attempt and appeared after rerunning uv sync.
+Step 4 printed Python 3.14.7, NumPy 2.5.3, pandas 3.0.6, SciPy 1.18.1, and Matplotlib 3.11.2. Compared notebook to session 9 and session 11 and all five versions matched. 
 
 ## Outcome
+The repository can rebuild the course environment with uv sync. 
