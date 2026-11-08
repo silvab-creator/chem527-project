@@ -28,6 +28,6 @@ When the student asks for a plan, give it in words and write no code until the s
 
 The student replaces the three lines below and adds a line each time they correct the assistant on the same point twice.
 
-- Question: (one sentence)
-- Data: (the file in `data/`, what one row is, and its source URL and access date)
-- Measured variable: (its column name and unit)
+- Question: How does the choice of single-wavelength versus multiwavelength nonlinear fitting affect the estimated apparent pKa of methyl orange and its associated fitting uncertainty?
+- Data: data/20160621MO-pH.xlsx, where one row is one wavelength, with the URL and access date.
+- Measured variable: absorbance (AU), in one column per pH value

@@ -1,4 +1,4 @@
-# Judgment log: <your name>
+# Judgment log: <Silvana>
 
 ## How I used AI in this project
 
