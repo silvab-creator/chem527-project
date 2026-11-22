@@ -22,5 +22,3 @@ Estimate the apparent pKa of methyl orange using absorbance at 531 nm.
 - 2026-11-22 — Checked the raw spectra. The largest absorbance change across pH is 1.017 AU at 531 nm, making it a starting wavelength for fitting.
 
 ## Outcome
-
-Pending.

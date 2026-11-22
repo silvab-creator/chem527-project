@@ -23,4 +23,3 @@ Compare a shared-pKa multiwavelength fit with the single-wavelength fit at 531 n
 
 ## Outcome
 
-Pending.
