@@ -26,6 +26,8 @@ Newest first. Change the link to `archive/NNN-slug.md` when a task moves.
 
 | Number | Task | Status | Due |
 |---|---|---|---|
-| 003 | [Topic declaration](003-topic-declaration.md) | done | 2026-11-08 |
+| 005 | [Multiwavelength fit](005-multiwavelength-fit.md) | active | 2026-12-09 |
+| 004 | [Single-wavelength fit](004-single-wavelength-fit.md) | active | 2026-12-09 |
+| 003 | [Topic declaration](archive/003-topic-declaration.md) | done | 2026-11-08 |
 | 002 | [Copy the course environment](archive/002-environment.md) | done | 2026-11-01 |
 | 001 | [Write `.gitignore`](archive/001-gitignore.md) | done | 2026-11-01 |
